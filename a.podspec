@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'a'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of a.'
+  s.version          = '0.0.1'
+  s.summary          = 'Verifying myself: I am h1testingb15 on Keybase.io. MCWVZI7pq2jJFNnNmuIhGbyxD-O4M3apAo5R / https://keybase.io/h1testingb15/sigs/MCWVZI7pq2jJFNnNmuIhGbyxD-O4M3apAo5R'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Verifying myself: I am h1testingb15 on Keybase.io. MCWVZI7pq2jJFNnNmuIhGbyxD-O4M3apAo5R / https://keybase.io/h1testingb15/sigs/MCWVZI7pq2jJFNnNmuIhGbyxD-O4M3apAo5R
                        DESC
 
   s.homepage         = 'https://github.com/frantiseksabrsut/a'
